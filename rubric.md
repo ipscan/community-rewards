@@ -4,7 +4,7 @@
 Working together to succeed together - that is the philosophy behind Kin. Recognizing Kin's belief in a more fair digital world, where everyone is rewarded for the value they create online, the Kin Community Council has proposed a way to reward contributions to the Kin Ecosystem of all shapes and sizes. Over time, the Council intends to work with the community to perfect this rubric.
 
 #### How to View & Submit Entries
-If you would like to view the leaderboard or submit a contribution to be rewarded, visit https://www.kincouncil.com/community-rewards. 
+If you would like to view the leaderboard or submit a contribution to be rewarded, visit https://www.kincouncil.com/kin-community-rewards. 
 
 #### How to Contribute to the Rubric
 If you would like to contribute a change to or start a discussion about the scoring rubric, create an issue and outline your proposed change here: https://github.com/KRicoyLL/community-rewards/issues
